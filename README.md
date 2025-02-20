@@ -14,4 +14,4 @@ Key features:
   
 This repository showcases my work on processor and cache architecture, demonstrating expertise in C++, low-level programming, and cache optimization.
 
-
+The program simulates the operation of a processor and cache with a look-through write-back policy and LRU and pLRU replacement policies while executing assembly code.
