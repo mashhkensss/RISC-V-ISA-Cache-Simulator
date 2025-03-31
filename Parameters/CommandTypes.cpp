@@ -1,0 +1,4 @@
+enum Type {
+    w,
+    r
+};
